@@ -1,8 +1,8 @@
 # Two Lines to Your Past Self
 
-![Competition](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca.svg)
-![Rank](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/SRamadhan-07/makefun-past-self/rank.svg)
-![Reward](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/SRamadhan-07/makefun-past-self/reward.svg)
+[![Competition](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
+[![Rank](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/SRamadhan-07/makefun-past-self/rank.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
+[![Reward](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/SRamadhan-07/makefun-past-self/reward.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
 
 A Python program that writes two lines to a past self: a warning about one
 specific moment — a fine-tune on the comments section that Tuesday — and why
